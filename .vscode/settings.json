@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sensor.h": "c",
+        "m7_sensor.h": "c"
+    }
+}
